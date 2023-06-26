@@ -1,6 +1,6 @@
 {
     "name": "roxie-embed",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Javascript library to display roxie chatbot on your website",
     "type": "module",
     "main": "dist/index.js",

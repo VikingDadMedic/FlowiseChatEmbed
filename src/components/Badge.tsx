@@ -51,10 +51,10 @@ export const Badge = (props: Props) => {
       "text-align": 'center',
       color: props.poweredByTextColor ?? defaultTextColor,
       "background-color": props.badgeBackgroundColor ?? '#ffffff'
-    }}> Powered by
+    }}>Powered by 
       <a
         ref={liteBadge}
-        href={'https://www.roxie.ai'}
+        href={'https://www.voyagersocial.ai'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
