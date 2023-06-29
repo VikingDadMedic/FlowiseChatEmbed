@@ -1,7 +1,7 @@
 {
-    "name": "roxie-embed",
-    "version": "1.0.8",
-    "description": "Javascript library to display roxie chatbot on your website",
+    "name": "flowise-embed",
+    "version": "1.0.9",
+    "description": "Javascript library to display flowise chatbot on your website",
     "type": "module",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
